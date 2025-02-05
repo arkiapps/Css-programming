@@ -1,7 +1,14 @@
-body {
-    font-size: 24px;
+* {
+    font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    font-size: 22px;
+    line-height: 1.5;
+    background-color: bisque;
+}
+
+/*
 h1,
 h2,
 h3,
@@ -10,7 +17,7 @@ h4 {
 }
 
 p {
-    color: goldenrod;
+    color: green !important; 
 }
 
 p span {
@@ -28,3 +35,4 @@ p span {
     font-style: italic;
     font-size: 75px;
 }
+*/
